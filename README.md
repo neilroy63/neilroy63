@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @neilroy63
 - 👀 I’m interested in full stack web development. 
 - 🎓 I’m currently honing my skills at Monash University here in Melbourne, Australia.  
-- ✨ I’m looking to collaborate on any open source projects that will also help me improve my skills. 
+- ✨ I’m looking to collaborate on any open source projects that might also help me improve my skills further. 
 - 🤙 You can reach me on my Github. 
 
 <!---
